@@ -13,3 +13,4 @@ def weave(l , m):
         return f"enter equal length of strings."
 print(weave([],[]))
 print(weave([1,2,3],[4,5,6]))
+print(weave([1,2,'chandra'],[3,4,'sekhar']))
